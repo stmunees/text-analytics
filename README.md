@@ -26,3 +26,5 @@ After that install the required packages using pip,
 ```
 pip install -r requirements.txt
 ```
+
+This project uses Travis-CI, and doesn't allow direct modifications to the master branch.
