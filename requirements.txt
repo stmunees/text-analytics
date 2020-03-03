@@ -1,3 +1,7 @@
 liwc-text-analysis==1.0.2
 nltk==3.4.5
 scikit-learn==0.22.1
+tqdm
+bs4
+contractions
+re
