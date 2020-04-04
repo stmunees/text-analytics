@@ -1,8 +1,10 @@
 liwc-text-analysis==1.0.2
 nltk==3.4.5
 scikit-learn==0.22.1
-tqdm
-bs4
+tqdm==4.31.0
+bs4==0.0.1
+beautifulsoup4==4.6.0
 regex
 matplotlib
 seaborn
+catboost
