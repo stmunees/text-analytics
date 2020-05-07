@@ -1,5 +1,5 @@
 # CS7IS4: Text Analytics, TCD
-## Group 5 for Text Analytics
+#### Group 5
 
 We are using Python 3.6 in this project.
 
